@@ -1,0 +1,20 @@
+{
+  "name": "emilkowal-animations-swift",
+  "version": "0.1.0",
+  "organization": "Pluk, Inc.",
+  "technology": "SwiftUI/AppKit Animations",
+  "date": "January 2026",
+  "abstract": "Comprehensive animation guide for SwiftUI and AppKit interfaces, adapted from Emil Kowalski's web animation principles and Framer Motion best practices. Contains 80 rules across 10 categories targeting iOS 17+, prioritized by impact from critical (easing selection, timing) to polish (phase animators, keyframe sequences). Each rule includes detailed explanations, production-realistic Swift code examples comparing incorrect vs. correct implementations, and specific values to guide animation decisions.",
+  "references": [
+    "https://developer.apple.com/documentation/swiftui/animation",
+    "https://developer.apple.com/documentation/swiftui/spring",
+    "https://developer.apple.com/documentation/swiftui/phaseanimator",
+    "https://developer.apple.com/documentation/swiftui/keyframeanimator",
+    "https://developer.apple.com/documentation/swiftui/matchedgeometryeffect(id:in:properties:anchor:issource:)",
+    "https://developer.apple.com/documentation/swiftui/view/transition(_:)",
+    "https://developer.apple.com/documentation/swiftui/gestures",
+    "https://developer.apple.com/documentation/appkit/nsanimationcontext",
+    "https://emilkowal.ski/ui/great-animations",
+    "https://animations.dev/"
+  ]
+}
